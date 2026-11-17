@@ -11,8 +11,7 @@ Files:
 
 How to run:
 1) chmod +x auditor.sh lib.sh
-2) Menu mode:          ./auditor.sh ../sample_data
-3) Command-line mode:  ./auditor.sh ../sample_data scan
+2) Menu mode:          ./auditor.sh .
    Actions: scan | perms | ext | backup
 
 Notes:
